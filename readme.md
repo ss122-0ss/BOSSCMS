@@ -1,4 +1,4 @@
-# BOSSCMS background project management--code configuration--stored XSS exists in the header code and bottom code
+![图片](https://github.com/ss122-0ss/BOSSCMS/assets/131983607/94d41152-6b41-41c3-902d-eb45f532ebf5)# BOSSCMS background project management--code configuration--stored XSS exists in the header code and bottom code
 
 # BOSSCMS后台项目管理--代码配置--头部代码和底部代码存在存储型XSS
 
@@ -10,7 +10,7 @@ payload:
 <script>alert(1)</script>
 ```
 
-![image-20240329144227744](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240329144227744.png)
+![图片](https://github.com/ss122-0ss/BOSSCMS/assets/131983607/cae2cb2c-a48b-4678-833c-10c7eb4a4f8b)
 
 
 
@@ -18,4 +18,4 @@ Return to homepage, trigger XSS
 
 返回首页，触发XSS
 
-![image-20240329144304027](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240329144304027.png)
+![图片](https://github.com/ss122-0ss/BOSSCMS/assets/131983607/1e227c98-897d-46c2-963a-99e59fca4681)
