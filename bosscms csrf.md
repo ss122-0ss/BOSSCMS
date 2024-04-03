@@ -12,7 +12,7 @@
 
 **Version:** Bosscms v3.10
 
-bosscms xss详细可以见https://github.com/ss122-0ss/bosscms
+bosscms xss link:https://github.com/ss122-0ss/BOSSCMS/blob/main/readme.md
 
 
 
