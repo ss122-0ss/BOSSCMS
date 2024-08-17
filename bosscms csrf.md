@@ -4,7 +4,7 @@
 
 **Date:** 2024-04-01
 
-**Exploit Author:** 
+**Exploit Author:** shuosheng,jixinzhang
 
 **Vendor Homepage:** https://gitee.com/Greenpeas/BOSSCMS
 
